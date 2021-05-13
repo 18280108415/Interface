@@ -1,0 +1,186 @@
+2021-02-23 15:26:09,766 - __main__ - INFO - Start print log
+2021-02-23 15:26:09,766 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:26:09,766 - __main__ - INFO - Finish
+2021-02-23 15:30:45,214 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:37:28,679 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:37:55,855 - __main__ - INFO - Start print log
+2021-02-23 15:37:55,855 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:37:55,855 - __main__ - INFO - Finish
+2021-02-23 15:38:33,761 - __main__ - INFO - Start print log
+2021-02-23 15:38:33,762 - __main__ - DEBUG - Do something
+2021-02-23 15:38:33,762 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:38:33,762 - __main__ - INFO - Finish
+2021-02-23 15:39:12,119 - __main__ - INFO - Start print log
+2021-02-23 15:39:12,119 - __main__ - DEBUG - Do something
+2021-02-23 15:39:12,119 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:39:12,119 - __main__ - INFO - Finish
+2021-02-23 15:39:28,561 - __main__ - INFO - Start print log
+2021-02-23 15:39:28,561 - __main__ - DEBUG - Do something
+2021-02-23 15:39:28,561 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:39:28,561 - __main__ - INFO - Finish
+2021-02-23 15:39:28,561 - __main__ - CRITICAL - this is your
+2021-02-23 15:55:15,955 - __main__ - INFO - Start print log
+2021-02-23 15:55:15,956 - __main__ - DEBUG - Do something
+2021-02-23 15:55:15,956 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:55:15,956 - __main__ - INFO - Finish
+2021-02-23 15:55:15,956 - __main__ - CRITICAL - this is your
+2021-02-23 15:55:32,830 - __main__ - INFO - Start print log
+2021-02-23 15:55:32,830 - __main__ - DEBUG - Do something
+2021-02-23 15:55:32,830 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:55:32,830 - __main__ - INFO - Finish
+2021-02-23 15:55:32,830 - __main__ - CRITICAL - this is your
+2021-02-23 15:57:24,583 - __main__ - INFO - Start print log
+2021-02-23 15:57:24,583 - __main__ - DEBUG - Do something
+2021-02-23 15:57:24,583 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:57:24,584 - __main__ - INFO - Finish
+2021-02-23 15:57:24,584 - __main__ - CRITICAL - this is your
+2021-02-23 15:57:24,584 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 15:57:45,271 - __main__ - INFO - Start print log
+2021-02-23 15:57:45,272 - __main__ - DEBUG - Do something
+2021-02-23 15:57:45,272 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:57:45,272 - __main__ - INFO - Finish
+2021-02-23 15:57:45,272 - __main__ - CRITICAL - this is your
+2021-02-23 15:57:45,272 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 15:57:45,272 - __main__ - ERROR - this is a error
+2021-02-23 15:59:14,018 - __main__ - INFO - Start print log
+2021-02-23 15:59:14,018 - __main__ - DEBUG - Do something
+2021-02-23 15:59:14,018 - __main__ - WARNING - Something maybe fail.
+2021-02-23 15:59:14,018 - __main__ - INFO - Finish
+2021-02-23 15:59:14,018 - __main__ - CRITICAL - this is your
+2021-02-23 15:59:14,019 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 15:59:14,019 - __main__ - ERROR - this is a error
+2021-02-23 15:59:14,019 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("sklearn.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'sklearn.txt'
+2021-02-23 16:00:07,821 - __main__ - INFO - Start print log
+2021-02-23 16:00:07,821 - __main__ - DEBUG - Do something
+2021-02-23 16:00:07,822 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:00:07,822 - __main__ - INFO - Finish
+2021-02-23 16:00:07,822 - __main__ - CRITICAL - this is your
+2021-02-23 16:00:07,822 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:00:07,822 - __main__ - ERROR - this is a error
+2021-02-23 16:00:21,209 - __main__ - INFO - Start print log
+2021-02-23 16:00:21,209 - __main__ - DEBUG - Do something
+2021-02-23 16:00:21,209 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:00:21,210 - __main__ - INFO - Finish
+2021-02-23 16:00:21,210 - __main__ - CRITICAL - this is your
+2021-02-23 16:00:21,210 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:00:21,210 - __main__ - ERROR - this is a error
+2021-02-23 16:00:21,210 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("text.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'text.txt'
+2021-02-23 16:12:44,884 - __main__ - INFO - Start print log
+2021-02-23 16:12:44,885 - __main__ - DEBUG - Do something
+2021-02-23 16:12:44,885 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:12:44,885 - __main__ - INFO - Finish
+2021-02-23 16:12:44,885 - __main__ - CRITICAL - this is your
+2021-02-23 16:12:44,885 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:12:44,885 - __main__ - ERROR - this is a error
+2021-02-23 16:12:44,885 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+2021-02-23 16:13:21,434 - __main__ - INFO - Start print log
+2021-02-23 16:13:21,434 - __main__ - DEBUG - Do something
+2021-02-23 16:13:21,434 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:13:21,434 - __main__ - INFO - Finish
+2021-02-23 16:13:21,434 - __main__ - CRITICAL - this is your
+2021-02-23 16:13:21,434 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:13:21,434 - __main__ - ERROR - this is a error
+2021-02-23 16:13:21,434 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("text.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'text.txt'
+2021-02-23 16:18:45,664 - test - INFO - Start print log
+2021-02-23 16:18:45,664 - test - DEBUG - Do something
+2021-02-23 16:18:45,664 - test - WARNING - Something maybe fail.
+2021-02-23 16:18:45,664 - test - INFO - Finish
+2021-02-23 16:18:45,664 - test - CRITICAL - this is your
+2021-02-23 16:18:45,664 - test - CRITICAL - this is a fatal error
+2021-02-23 16:18:45,664 - test - ERROR - this is a error
+2021-02-23 16:18:45,665 - test - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("text.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'text.txt'
+2021-02-23 16:20:42,665 - __main__ - INFO - Start print log
+2021-02-23 16:20:42,665 - __main__ - DEBUG - Do something
+2021-02-23 16:20:42,665 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:20:42,665 - __main__ - INFO - Finish
+2021-02-23 16:20:42,665 - __main__ - CRITICAL - this is your
+2021-02-23 16:20:42,666 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:20:42,666 - __main__ - ERROR - this is a error
+2021-02-23 16:20:42,666 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("text.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'text.txt'
+2021-02-23 16:32:23,088 - __main__ - INFO - Start print log
+2021-02-23 16:32:23,088 - __main__ - DEBUG - Do something
+2021-02-23 16:32:23,088 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:32:23,089 - __main__ - INFO - Finish
+2021-02-23 16:32:23,089 - __main__ - CRITICAL - this is your
+2021-02-23 16:32:23,089 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:32:23,089 - __main__ - ERROR - this is a error
+2021-02-23 16:32:23,089 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("text.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'text.txt'
+2021-02-23 16:36:42,167 - __main__ - INFO - Start print log
+2021-02-23 16:36:42,167 - __main__ - DEBUG - Do something
+2021-02-23 16:36:42,167 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:36:42,167 - __main__ - INFO - Finish
+2021-02-23 16:36:42,168 - __main__ - CRITICAL - this is your
+2021-02-23 16:36:42,168 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:36:42,168 - __main__ - ERROR - this is a error
+2021-02-23 16:36:42,168 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("text.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'text.txt'
+2021-02-23 16:40:06,223 - __main__ - INFO - Start print log
+2021-02-23 16:40:06,223 - __main__ - DEBUG - Do something
+2021-02-23 16:40:06,223 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:40:06,223 - __main__ - INFO - Finish
+2021-02-23 16:40:06,223 - __main__ - CRITICAL - this is your
+2021-02-23 16:40:06,223 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:40:06,223 - __main__ - ERROR - this is a error
+2021-02-23 16:40:06,224 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("text.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'text.txt'
+2021-02-23 16:40:27,045 - __main__ - INFO - Start print log
+2021-02-23 16:40:27,045 - __main__ - DEBUG - Do something
+2021-02-23 16:40:27,045 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:40:27,045 - __main__ - INFO - Finish
+2021-02-23 16:40:27,045 - __main__ - CRITICAL - this is your
+2021-02-23 16:40:27,045 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:40:27,045 - __main__ - ERROR - this is a error
+2021-02-23 16:40:27,046 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("text.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'text.txt'
+2021-02-23 16:40:47,998 - __main__ - INFO - Start print log
+2021-02-23 16:40:47,998 - __main__ - DEBUG - Do something
+2021-02-23 16:40:47,998 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:40:47,998 - __main__ - INFO - Finish
+2021-02-23 16:40:47,998 - __main__ - CRITICAL - this is your
+2021-02-23 16:40:47,999 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:40:47,999 - __main__ - ERROR - this is a error
+2021-02-23 16:40:47,999 - __main__ - ERROR - Faild to open sklearn.txt from logger.error
+Traceback (most recent call last):
+  File "D:/work/PracticePython/logDemo.py", line 23, in <module>
+    open("text.txt","rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'text.txt'
+2021-02-23 16:41:52,440 - __main__ - INFO - Start print log
+2021-02-23 16:41:52,441 - __main__ - DEBUG - Do something
+2021-02-23 16:41:52,441 - __main__ - WARNING - Something maybe fail.
+2021-02-23 16:41:52,441 - __main__ - INFO - Finish
+2021-02-23 16:41:52,441 - __main__ - CRITICAL - this is your
+2021-02-23 16:41:52,441 - __main__ - CRITICAL - this is a fatal error
+2021-02-23 16:41:52,441 - __main__ - ERROR - this is a error
